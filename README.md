@@ -39,6 +39,8 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 
 ## 📊 Dataset
 
+![print(air_quality head(3))](https://github.com/user-attachments/assets/1469c983-08b6-4f11-94ac-0a4e8049c172)
+
 - **Fonte:** [Kaggle - SP Air Quality](https://www.kaggle.com/datasets/amandalk/sp-air-quality)
 - **Período:** De 5 de agosto de 2013 a 9 de setembro de 2020
 - **Características:**
@@ -85,8 +87,6 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 - **Picos de NO₂:** 6h–10h (manhã) e 17h–20h (final da tarde e noite).
 - **Menores níveis:** 1h–5h (madrugada) e 11h–15h (início da tarde).
 - **Regiões mais críticas:** Capital, Região Metropolitana e Litoral.
-  
-![Air_Quality_Region_Values](https://github.com/user-attachments/assets/2f5b4933-0368-487f-a7c1-74f2797693d2)
 
 ---
 
