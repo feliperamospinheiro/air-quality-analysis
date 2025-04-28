@@ -63,7 +63,7 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 - Imputação de valores ausentes de NO₂ com a mediana por estação de coleta.
 - Remoção de outliers utilizando o intervalo interquartil (IQR) de cada estação de coleta.
 
-### 📌 Manipulação de Dados
+### 📌 Manipulação dos Dados
 - Extração da **hora** (`Hour`) da coluna `Datetime`.
 - Criação da coluna **Region**, agrupando estações em:
   - Capital
@@ -85,6 +85,8 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 - **Picos de NO₂:** 6h–10h (manhã) e 17h–20h (final da tarde e noite).
 - **Menores níveis:** 1h–5h (madrugada) e 11h–15h (início da tarde).
 - **Regiões mais críticas:** Capital, Região Metropolitana e Litoral.
+  
+![Air_Quality_Region_Values](https://github.com/user-attachments/assets/2f5b4933-0368-487f-a7c1-74f2797693d2)
 
 ---
 
