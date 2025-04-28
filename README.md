@@ -7,7 +7,7 @@ Análise da qualidade do ar em São Paulo, focando na variação dos níveis de 
 
 ---
 
-## 📖 Sobre o Projeto
+## 📖 Sobre
 
 Este projeto nasceu da necessidade de compreender como a poluição atmosférica se comporta em São Paulo — uma das maiores metrópoles do mundo.  
 Seu principal objetivo é identificar padrões de concentração de NO₂, entender suas causas e sugerir ações para melhorar a qualidade do ar.
