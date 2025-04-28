@@ -12,7 +12,7 @@ Análise da qualidade do ar em São Paulo, focando na variação dos níveis de 
 Este projeto nasceu da necessidade de compreender como a poluição atmosférica se comporta em São Paulo — uma das maiores metrópoles do mundo.  
 Seu principal objetivo é identificar padrões de concentração de NO₂, entender suas causas e sugerir ações para melhorar a qualidade do ar.
 
-### 🎯 Qual Problema Espera Resolver
+### 🎯 Objetivos
 - Identificar momentos críticos de poluição.
 - Apoiar políticas públicas de mobilidade e meio ambiente.
 - Incentivar práticas sustentáveis em transporte e indústria.
@@ -54,33 +54,6 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 - [Matplotlib](https://matplotlib.org/) — visualização básica
 - [Seaborn](https://seaborn.pydata.org/) — visualização estatística
 - [Datetime](https://docs.python.org/3/library/datetime.html) — manipulação de datas e horas
-
----
-
-## 🚀 Como Rodar o Projeto
-
-Clone o repositório:
-```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
-```
-
-Crie um ambiente virtual e ative:
-```bash
-python -m venv venv
-source venv/bin/activate   # Linux/Mac
-venv\Scripts\activate      # Windows
-```
-
-Instale as dependências:
-```bash
-pip install -r requirements.txt
-```
-
-Execute o script de análise:
-```bash
-python analise_air_quality.py
-```
 
 ---
 
@@ -144,5 +117,5 @@ A expectativa é que, com o apoio de dados e políticas bem direcionadas, seja p
 ## 🙌 Créditos
 
 - **Desenvolvimento e Análise:** [Felipe Ramos Pineiro](https://github.com/feliperamospinheiro)
-- **Fonte de Dados:** Amanda LK (Kaggle)
+- **Fonte de Dados:** [Amanda LK (Kaggle)](https://www.kaggle.com/datasets/amandalk/sp-air-quality)
 - **Inspiração:** Estudos acadêmicos em meio ambiente e sustentabilidade urbana.
