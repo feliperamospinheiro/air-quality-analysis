@@ -29,9 +29,10 @@ Projeto de análise da qualidade do ar em São Paulo, focando na variação dos 
 ---
 
 ## 🔍 Análise Exploratória
+![print(air_quality head(3))](https://github.com/user-attachments/assets/2dbab26f-f3b5-4bae-9667-96342e623b99)
 - Dataset com 11 colunas: Datetime, Station e poluentes (Benzene, CO, PM10, PM2.5, NO₂, O3, SO2, Toluene, TRS).
-- Tratamento de valores ausentes de NO₂ pela mediana da estação.
-- Remoção de outliers usando intervalo interquartil (IQR).
+- Tratamento de valores ausentes de NO₂ pela imputação por subgrupos da mediana de cada estação de coleta.
+- Remoção de outliers usando intervalo interquartil (IQR) de cada estação de coleta.
 
 ---
 
@@ -48,6 +49,7 @@ Projeto de análise da qualidade do ar em São Paulo, focando na variação dos 
 ---
 
 ## 📈 Resultados
+![NO2_(µgm³)_per_hour_in_São_Paulo](https://github.com/user-attachments/assets/4005b7be-285f-4c19-abd5-db70926bcb7c)
 - **Picos de NO₂:**
   - 6h–10h (manhã)
   - 17h–20h (tarde/noite)
