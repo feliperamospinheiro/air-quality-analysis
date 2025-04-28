@@ -116,6 +116,6 @@ A expectativa é que, com o apoio de dados e políticas bem direcionadas, seja p
 
 ## 🙌 Créditos
 
-- **Desenvolvimento e Análise:** [Felipe Ramos Pineiro](https://github.com/feliperamospinheiro)
+- **Desenvolvimento e Análise:** [Felipe Ramos Pinheiro](https://github.com/feliperamospinheiro)
 - **Fonte de Dados:** [Amanda LK (Kaggle)](https://www.kaggle.com/datasets/amandalk/sp-air-quality)
 - **Inspiração:** Estudos acadêmicos em meio ambiente e sustentabilidade urbana.
