@@ -52,10 +52,10 @@ O projeto surgiu a partir da exploração de bases públicas de dados ambientais
 ## 🛠️ Tecnologias Utilizadas
 
 - **Python 3.8+**
-- [Pandas](https://pandas.pydata.org/) — manipulação de dados
-- [Matplotlib](https://matplotlib.org/) — visualização básica
-- [Seaborn](https://seaborn.pydata.org/) — visualização estatística
-- [Datetime](https://docs.python.org/3/library/datetime.html) — manipulação de datas e horas
+- [Pandas](https://pandas.pydata.org/) — biblioteca de manipulação de dados
+- [Matplotlib](https://matplotlib.org/) — biblioteca de visualização básica
+- [Seaborn](https://seaborn.pydata.org/) — biblioteca de visualização estatística
+- [Datetime](https://docs.python.org/3/library/datetime.html) — módulo de manipulação de datas e horas
 
 ---
 
