@@ -1,4 +1,4 @@
-# Air Quality in São Paulo 🌎🌿
+# Qualidade do Ar em São Paulo 🌎🌿
 
 [![Versão Python](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/) 
 [![Status do Projeto](https://img.shields.io/badge/status-concluído-brightgreen.svg)]()
@@ -121,3 +121,4 @@ A expectativa é que, com o apoio de dados e políticas bem direcionadas, seja p
 - **Desenvolvimento e Análise:** [Felipe Ramos Pinheiro](https://github.com/feliperamospinheiro)
 - **Fonte de Dados:** [Amanda LK (Kaggle)](https://www.kaggle.com/datasets/amandalk/sp-air-quality)
 - **Inspiração:** Estudos acadêmicos em meio ambiente e sustentabilidade urbana.
+
